@@ -48,7 +48,7 @@ void ShowAccessDeniedMessage()
 {
 	system("cls");
 	cout << "\n------------------------------------\n";
-	cout << "Access Denied, \nYou dont Have Permission To Do this,\nPlease Conact Your Admin.";
+	cout << "Access Denied, \nYou d'ont Have Permission To Do this,\nPlease Conact Your Admin.";
 	cout << "\n------------------------------------\n";
 
 
